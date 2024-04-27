@@ -1,0 +1,7 @@
+ContextMenu_CN = {
+    ContextMenu_TuckIn = "塞进",
+    ContextMenu_TuckOut = "拔出",
+    ContextMenu_UpHoodie = "拉起帽衫",
+    ContextMenu_DownHoodie = "放下帽衫",
+    ContextMenu_ChangeFeatherPosition = "改变羽毛位置",
+}

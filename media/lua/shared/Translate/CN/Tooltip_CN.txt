@@ -1,3 +1,0 @@
-Tooltip_CN = {
-	Tooltip_AmazonaHipBag = "--> 双击装备 <--",
-}

@@ -1,9 +1,0 @@
-IG_UI_CN = {
-    IGUI_HotbarAttachment_PrepperVestFlashlight = "预备员背心手电筒",
-    IGUI_HotbarAttachment_PrepperVestKnife = "预备员背心刀",
-	IGUI_HotbarAttachment_PrepperHolster = "预备员枪套",
-    IGUI_HotbarAttachment_PrepperGunMagazine1 = "预备员枪弹夹 1",
-	IGUI_HotbarAttachment_PrepperGunMagazine2 = "预备员枪弹夹 2",
-	IGUI_HotbarAttachment_PrepperGunMagazine3 = "预备员枪弹夹 3",
-	IGUI_HotbarAttachment_PrepperGunMagazine4 = "预备员枪弹夹 4",
-}
