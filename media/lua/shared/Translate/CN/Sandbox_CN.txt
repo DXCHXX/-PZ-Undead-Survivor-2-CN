@@ -1,0 +1,18 @@
+Sandbox_CN = {
+	Sandbox_UndeadSurvivor.StalkerChance = "潜行者生成几率百分比",
+	Sandbox_UndeadSurvivor.StalkerChance_tooltip = "这是百分比,但它与其他服装共享几率,所以在100时,你永远不会只得到这些服装的僵尸",
+		
+	Sandbox_UndeadSurvivor.NomadChance = "游牧民生成几率百分比",
+	Sandbox_UndeadSurvivor.NomadChance_tooltip = "这是百分比,但它与其他服装共享几率,所以在100时,你永远不会只得到这些服装的僵尸",
+		
+	Sandbox_UndeadSurvivor.PrepperChance = "预备员生成几率百分比",
+	Sandbox_UndeadSurvivor.PrepperChance = "这是百分比,但它与其他服装共享几率,所以在100时,你永远不会只得到这些服装的僵尸",
+	
+	Sandbox_UndeadSurvivor.HeadhunterChance = "猎头者生成几率百分比",
+	Sandbox_UndeadSurvivor.HeadhunterChance = "这是百分比,但它与其他服装共享几率,所以在100时,你永远不会只得到这些服装的僵尸",
+
+	Sandbox_UndeadSurvivor.AmazonaChance = "亚马逊女战士生成几率百分比",
+	Sandbox_UndeadSurvivor.AmazonaChance = "这是百分比,但它与其他服装共享几率,所以在100时,你永远不会只得到这些服装的僵尸.如果你想让所有服装的生成率相等，你应该将亚马逊女战士的百分比设为其他服装的两倍,因为它只会出现在女性僵尸身上.",
+	
+	Sandbox_UndeadSurvivor = "不死幸存者"
+}
